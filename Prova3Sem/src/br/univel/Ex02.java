@@ -23,7 +23,7 @@ public class Ex02 {
 			return 0;
 		}else{
 			int add = Integer.parseInt(str.substring(i+2, i+3));
-			return add +1;
+			return add +i;
 		}
 	}
 
